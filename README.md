@@ -1,4 +1,4 @@
-# AlpineJS sandbox
+# AlpineJS Sandbox
 
 A repo to try out AlpineJS APIs and features
 
